@@ -23,8 +23,8 @@ needed-pkgs:
       url: "http://www.fc.up.pt/cmup/mdelgado/automata"
 
 www: http://ruthhoffmann.github.io/PatternClass/
-readme: https://github.com/ruthhoffmann/blob/master/PatternClass/README
-packageinfo: https://github.com/ruthhoffmann/blob/master/PatternClass/PackageInfo.g
+readme: http://ruthhoffmann.github.io/PatternClass/README
+packageinfo: http://ruthhoffmann.github.io/PatternClass/PackageInfo.g
 
 downloads:
     - name: .tar.gz
