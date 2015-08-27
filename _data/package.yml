@@ -1,6 +1,6 @@
 name: PatternClass
-version: 1.1235813213455
-date: 20/08/2015
+version: 2.0
+date: 27/08/2015
 description: A permutation pattern class package
 
 authors:
@@ -28,7 +28,7 @@ packageinfo: http://ruthhoffmann.github.io/PatternClass/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/ruthhoffmann/blob/master/PatternClass/PatternClass1.1235813213455.tar.gz
+      url: https://github.com/ruthhoffmann/PatternClass/releases/download/v2.0/PatternClass2.0.tar.gz
 
 abstract: This package allows basic permutation pattern calculations to happen. It especially concentrates on the formation of automata from token passing networks and the rank encoding of the output permutation of these networks.
 
